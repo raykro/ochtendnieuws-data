@@ -1,0 +1,461 @@
+{
+ "dateIso": "2026-11-19",
+ "updated": "07:30",
+ "sections": [
+  {
+   "id": "wereld",
+   "color": "mint",
+   "code": "WR",
+   "title": {
+    "nl": "Wereld",
+    "en": "World"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Trump, Xi en Poetin vandaag samen aan tafel in Shenzhen",
+      "en": "Trump, Xi and Putin meet today in Shenzhen"
+     },
+     "s": {
+      "nl": "De eerste driezijdige top draait om kernwapens en de oorlog met Iran. Oekraïne staat niet officieel op de agenda; analisten verwachten weinig concreets.",
+      "en": "The first three-way summit focuses on nuclear arms and the Iran war. Ukraine is not formally on the agenda; analysts expect little concrete."
+     },
+     "i": {
+      "nl": "Europa zit niet aan tafel, terwijl afspraken over Oekraïne en Iran ons direct raken.",
+      "en": "Europe is absent, while deals on Ukraine and Iran affect the Netherlands directly."
+     },
+     "src": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting"
+    },
+    {
+     "h": {
+      "nl": "Hormuz: zes schepen op mijnen in drie dagen, overleg loopt vast",
+      "en": "Hormuz: six ships hit mines in three days, talks stall"
+     },
+     "s": {
+      "nl": "Een ADNOC-schip werd geraakt, één bemanningslid wordt vermist. Qatar bemiddelt, maar de VS wijzen Iraanse eisen af. Er varen nog maar enkele schepen per dag door.",
+      "en": "An ADNOC vessel was hit, one crew member missing. Qatar is mediating, but the US rejects Iran's demands. Only a handful of ships pass daily."
+     },
+     "i": {
+      "nl": "Aanhoudende druk op olie- en brandstofprijzen aan de Nederlandse pomp.",
+      "en": "Ongoing pressure on Dutch fuel prices."
+     },
+     "src": "House of Saud / Time",
+     "url": "https://houseofsaud.com/saudi-us-iran-no-peace-deal-nov18/"
+    },
+    {
+     "h": {
+      "nl": "Internationaal Gerechtshof doet vandaag uitspraak in genocidezaak Myanmar",
+      "en": "World Court rules today in Myanmar genocide case"
+     },
+     "s": {
+      "nl": "Gambia beschuldigt Myanmar van genocide op de Rohingya. Myanmar ontkent. De uitspraak kan richtinggevend zijn voor latere genocidezaken.",
+      "en": "The Gambia accuses Myanmar of genocide against the Rohingya. Myanmar denies it. The ruling may shape future genocide cases."
+     },
+     "i": {
+      "nl": "De uitspraak valt in Den Haag; Nederland steunde de zaak samen met andere landen.",
+      "en": "The ruling is delivered in The Hague; the Netherlands backed the case with other states."
+     },
+     "src": "HRW / NOS",
+     "url": "https://www.hrw.org/news/2026/11/03/world-court-set-to-rule-in-myanmar-genocide-case"
+    },
+    {
+     "h": {
+      "nl": "NRC: medewerkers Destinus schoten zelf drones af in Oekraïne",
+      "en": "NRC: Destinus staff shot down drones in Ukraine themselves"
+     },
+     "s": {
+      "nl": "Medewerkers van de Nederlandse dronemaker zouden aan het front hebben geholpen bij aanvallen op Rusland. Defensie is bezorgd; Destinus spreekt van technische ondersteuning.",
+      "en": "Staff of the Dutch drone maker allegedly helped attacks on Russia from the front. Defence is concerned; Destinus calls it technical support."
+     },
+     "i": {
+      "nl": "Volgens deskundigen kan dit gelden als deelname aan vijandelijkheden, met risico voor Nederland.",
+      "en": "Experts say this may count as taking part in hostilities, posing risks to the Netherlands."
+     },
+     "src": "NOS / NRC",
+     "url": "https://nos.nl/artikel/2640095-nrc-medewerkers-nederlandse-wapenfabrikant-schoten-zelf-drones-af-in-oekraine"
+    },
+    {
+     "h": {
+      "nl": "Van Gogh geveild voor recordbedrag van 173 miljoen euro",
+      "en": "Van Gogh sells for record 173 million euros"
+     },
+     "s": {
+      "nl": "Bloeiende kastanjebomen uit 1890 ging bij Sotheby's in New York weg voor het hoogste bedrag ooit voor een Van Gogh. De koper is onbekend.",
+      "en": "Chestnut Trees in Blossom (1890) fetched the highest price ever for a Van Gogh at Sotheby's New York. The buyer is unknown."
+     },
+     "i": {
+      "nl": "Het vorige record van 117 miljoen dollar is ruim verbroken.",
+      "en": "The previous record of 117 million dollars is well beaten."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640092-van-goghs-bloeiende-kastanjebomen-geveild-voor-recordbedrag-173-miljoen-euro"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "color": "lime",
+   "code": "BZ",
+   "title": {
+    "nl": "Business",
+    "en": "Business"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Anthropic prijst beursgang op 83 dollar, vandaag handel als ANT",
+      "en": "Anthropic prices IPO at 83 dollars, trades today as ANT"
+     },
+     "s": {
+      "nl": "De prijs ligt boven de bandbreedte van 70 tot 78 dollar, de vraag was bijna zeven keer het aanbod. De waardering komt rond 1,5 biljoen dollar.",
+      "en": "The price tops the 70 to 78 dollar range, with demand nearly seven times supply. The valuation is around 1.5 trillion dollars."
+     },
+     "i": {
+      "nl": "Een beursgenoteerde Claude-maker wordt een vaste factor voor Nederlandse bedrijven die AI inkopen.",
+      "en": "A listed Claude maker becomes a fixture for Dutch firms buying AI."
+     },
+     "src": "Fortune / Yahoo Finance",
+     "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"
+    },
+    {
+     "h": {
+      "nl": "Fed-notulen: bijna alle bestuurders zien meer renteverhogingen",
+      "en": "Fed minutes: nearly all officials see more rate hikes"
+     },
+     "s": {
+      "nl": "De havikachtige toon duwde de dollar naar een hoogste stand in 19 maanden. Goud verloor ruim 3 procent, de Dow Jones zakte meer dan 1 procent.",
+      "en": "The hawkish tone lifted the dollar to a 19-month high. Gold fell over 3 percent, the Dow lost more than 1 percent."
+     },
+     "i": {
+      "nl": "Een sterke dollar maakt Amerikaanse import en energie duurder in euro's.",
+      "en": "A strong dollar makes US imports and energy pricier in euros."
+     },
+     "src": "Motley Fool / investingLive",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"
+    },
+    {
+     "h": {
+      "nl": "AEX een procent lager, chipfondsen juist in trek",
+      "en": "AEX down one percent, chip stocks in demand"
+     },
+     "s": {
+      "nl": "Prosus zakte 4,5 procent na cijfers van Tencent. ASML, BESI en ASMI stegen 2 tot 2,6 procent na de sterke Nvidia-cijfers.",
+      "en": "Prosus fell 4.5 percent after Tencent results. ASML, BESI and ASMI rose 2 to 2.6 percent after strong Nvidia numbers."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "MarketScreener",
+     "url": "https://nl.marketscreener.com/beursnieuws/aex-sluit-lager-na-negatieve-reactie-op-nvidia-ce785edddd8df42d"
+    },
+    {
+     "h": {
+      "nl": "Einde salderen: aantal thuisbatterijen ruim verdubbeld",
+      "en": "End of net metering: home batteries more than double"
+     },
+     "s": {
+      "nl": "Bijna 430.000 huishoudens hebben nu een thuisbatterij. De Consumentenbond rekent op een terugverdientijd van zo'n 15 jaar en waarschuwt voor oplichters.",
+      "en": "Nearly 430,000 households now own a home battery. The consumer association sees a payback of about 15 years and warns of scammers."
+     },
+     "i": {
+      "nl": "Per 1 januari stopt de salderingsregeling voor ruim 3 miljoen huishoudens met zonnepanelen.",
+      "en": "Net metering ends on 1 January for over 3 million Dutch solar households."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2639959-einde-salderen-leidt-tot-run-op-thuisbatterijen-hoofd-koel-houden"
+    },
+    {
+     "h": {
+      "nl": "Kamer stemt vandaag over blokkeren duurdere treinkaartjes",
+      "en": "Parliament votes today on blocking pricier train tickets"
+     },
+     "s": {
+      "nl": "Een meerderheid wil de NS-verhoging van 4,7 procent voor 2027 tegenhouden. Dat kost NS ruim 100 miljoen euro; de dekking is nog onduidelijk.",
+      "en": "A majority wants to block NS's 4.7 percent rise for 2027. That costs NS over 100 million euros; funding is unclear."
+     },
+     "i": {
+      "nl": "Het plan geldt alleen voor 2027; in 2028 komt de verhoging er alsnog bij.",
+      "en": "The plan covers 2027 only; in 2028 the rise is added anyway."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640067-tweede-kamer-wil-duurdere-treinkaartjes-voorkomen-maar-het-wordt-race-tegen-de-klok"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "color": "pink",
+   "code": "AI",
+   "title": {
+    "nl": "AI & Tech",
+    "en": "AI & Tech"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "OpenAI lanceert GPT-6.2 Astra en Sol",
+      "en": "OpenAI launches GPT-6.2 Astra and Sol"
+     },
+     "s": {
+      "nl": "Astra is voor zwaar werk zoals code en onderzoek, Sol voor dagelijkse taken en agents. Astra wordt goedkoper: 8 dollar per miljoen input-tokens.",
+      "en": "Astra targets heavy work like code and research, Sol everyday tasks and agents. Astra gets cheaper: 8 dollars per million input tokens."
+     },
+     "i": {
+      "nl": "Lagere prijzen maken agent-toepassingen voor het MKB beter betaalbaar.",
+      "en": "Lower prices make agent use cases more affordable for SMEs."
+     },
+     "src": "Digital Trends",
+     "url": "https://www.digitaltrends.com/computing/openai-gpt-6-2-astra-sol-launch/"
+    },
+    {
+     "h": {
+      "nl": "Microsoft: Copilot goedkoper dan OpenAI en Anthropic",
+      "en": "Microsoft says Copilot beats OpenAI and Anthropic on price"
+     },
+     "s": {
+      "nl": "Microsoft zet in op prijs en lanceert ook de codeermodellen MAI Code 2 en MAI Code 2 Flash voor complexe ontwikkeling en snelle fixes.",
+      "en": "Microsoft pushes on price and also launches coding models MAI Code 2 and MAI Code 2 Flash for complex work and quick fixes."
+     },
+     "i": {
+      "nl": "Voor Microsoft-partners een nieuw prijsargument in Copilot-gesprekken met klanten.",
+      "en": "For Microsoft partners, a new price argument in Copilot client talks."
+     },
+     "src": "Bloomberg / The Neuron",
+     "url": "https://bloomberg.com/news/articles/2026-11-18/microsoft-says-copilot-is-beating-anthropic-openai-on-price"
+    },
+    {
+     "h": {
+      "nl": "Japanse supercomputer Fugaku stilgelegd na hack",
+      "en": "Japan's Fugaku supercomputer shut down after hack"
+     },
+     "s": {
+      "nl": "Hackers kwamen via een openbare statuspagina binnen en hadden dagenlang toegang. Gegevens van ruim 4000 gebruikers en toegangssleutels zijn mogelijk gestolen.",
+      "en": "Hackers entered via a public status page and had access for days. Data of over 4,000 users and access keys may be stolen."
+     },
+     "i": {
+      "nl": "Een les voor elke organisatie: ook beheersystemen en statuspagina's horen bij het aanvalsoppervlak.",
+      "en": "A lesson for every organisation: admin systems and status pages are attack surface too."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2639994-japans-krachtigste-supercomputer-stilgelegd-na-hack"
+    },
+    {
+     "h": {
+      "nl": "Waymo haalt robotaxi's van Amerikaanse snelwegen",
+      "en": "Waymo pulls robotaxis off US highways"
+     },
+     "s": {
+      "nl": "Na een verbod in Californië pauzeert Waymo snelwegritten overal. Er waren ongelukken en auto's die wegafsluitingen negeerden.",
+      "en": "After a California ban, Waymo pauses highway rides everywhere. There were crashes and cars ignoring road closures."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2639996-waymo-stopt-na-incidenten-voorlopig-met-zelfrijdende-taxi-s-op-snelwegen-vs"
+    },
+    {
+     "h": {
+      "nl": "Gemini scheidt chatgeschiedenis van AI-training",
+      "en": "Gemini separates chat history from AI training"
+     },
+     "s": {
+      "nl": "Gebruikers kunnen hun geschiedenis bewaren zonder dat Google ermee traint. Tijdelijke chats blijven wel twee maanden bewaard in plaats van 72 uur.",
+      "en": "Users can keep history without Google training on it. Temporary chats are now kept two months instead of 72 hours."
+     },
+     "i": {
+      "nl": "Relevant voor AVG-afwegingen bij MKB-klanten die Gemini gebruiken.",
+      "en": "Relevant for GDPR choices at SME clients using Gemini."
+     },
+     "src": "Android Central",
+     "url": "https://androidcentral.com/apps-software/ai/you-can-now-keep-your-gemini-history-without-feeding-googles-training-pipeline"
+    }
+   ]
+  },
+  {
+   "id": "sport",
+   "color": "blue",
+   "code": "SP",
+   "title": {
+    "nl": "Sport",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Wattimena schakelt Littler uit op Grand Slam of Darts",
+      "en": "Wattimena knocks out Littler at Grand Slam of Darts"
+     },
+     "s": {
+      "nl": "Jermaine Wattimena won met 10-8 van titelhouder Luke Littler. Kevin Doets versloeg Menzies met 10-5.",
+      "en": "Jermaine Wattimena beat defending champion Luke Littler 10-8. Kevin Doets beat Menzies 10-5."
+     },
+     "i": {
+      "nl": "In de kwartfinale volgt een Nederlands onderonsje: Wattimena tegen Doets.",
+      "en": "The quarter-final is an all-Dutch tie: Wattimena v Doets."
+     },
+     "src": "Dartsnews",
+     "url": "https://dartsnews.com/pdc/luke-littlers-major-rut-goes-on-as-jermaine-wattimena-in-tears-after-incredible-grand-slam-of-darts-win-gerwyn-price-also-into-quarter-finals"
+    },
+    {
+     "h": {
+      "nl": "PSV doet eerste bod op Kevin De Bruyne",
+      "en": "PSV makes first bid for Kevin De Bruyne"
+     },
+     "s": {
+      "nl": "PSV bood Napoli naar verluidt twee miljoen euro. Napoli wil vermoedelijk meer en De Bruyne zou fors salaris moeten inleveren.",
+      "en": "PSV reportedly offered Napoli two million euros. Napoli likely wants more and De Bruyne would take a big pay cut."
+     },
+     "i": {
+      "nl": "De Belg wil met zijn gezin in België wonen; Eindhoven ligt daarvoor ideaal.",
+      "en": "The Belgian wants to live in Belgium with his family; Eindhoven fits."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2639863-psv-wordt-concreet-voor-de-bruyne-en-legt-eerste-bod-neer-bij-napoli"
+    },
+    {
+     "h": {
+      "nl": "Blessurezorgen bij Nederlanders voor hervatting Premier League",
+      "en": "Injury worries for Dutch players as Premier League resumes"
+     },
+     "s": {
+      "nl": "Gakpo verzwikte zijn enkel, Van Hecke heeft een voetblessure en Brobbey mogelijk een hamstringblessure. Ook Haaland en Isak zijn twijfelachtig.",
+      "en": "Gakpo hurt his ankle, Van Hecke has a foot injury and Brobbey a possible hamstring issue. Haaland and Isak are also doubts."
+     },
+     "i": {
+      "nl": "Slecht nieuws voor Liverpool, Tottenham en Sunderland en voor je FC-team.",
+      "en": "Bad news for Liverpool, Tottenham, Sunderland and your FC squad."
+     },
+     "src": "ESPN",
+     "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
+    },
+    {
+     "h": {
+      "nl": "F1 keert in 2030 terug naar V8-motoren",
+      "en": "F1 returns to V8 engines in 2030"
+     },
+     "s": {
+      "nl": "De nieuwe V8's krijgen een turbo en rijden op duurzame brandstof. Dit weekend is de GP van Las Vegas, met Verstappen tweede in het kampioenschap.",
+      "en": "The new V8s get a turbo and run on sustainable fuel. This weekend is the Las Vegas GP, with Verstappen second in the standings."
+     },
+     "i": {
+      "nl": "Verstappen pleitte al lang voor de terugkeer van de V8.",
+      "en": "Verstappen long lobbied for the V8's return."
+     },
+     "src": "NOS / Formula1.com",
+     "url": "https://nos.nl/artikel/2639908-formule-1-gaat-tot-vreugde-van-verstappen-weer-rijden-met-iconische-v8-motoren"
+    },
+    {
+     "h": {
+      "nl": "Alcaraz ondanks hamstring naar halve finale ATP Finals",
+      "en": "Alcaraz reaches ATP Finals semis despite hamstring"
+     },
+     "s": {
+      "nl": "Alcaraz versloeg Medvedev met 6-2, 6-4 met een getapet bovenbeen. Ook Zverev staat in de laatste vier.",
+      "en": "Alcaraz beat Medvedev 6-2, 6-4 with a strapped thigh. Zverev is also in the last four."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "ESPN",
+     "url": "https://www.espn.com/tennis/story/_/id/50521030/alcaraz-cruises-medvedev-atp-finals-leg-issue"
+    }
+   ]
+  },
+  {
+   "id": "entertainment",
+   "color": "lav",
+   "code": "EN",
+   "title": {
+    "nl": "Films, games & series",
+    "en": "Films, games & series"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "GTA 6 is uit en scoort 99 op Metacritic",
+      "en": "GTA 6 is out and scores 99 on Metacritic"
+     },
+     "s": {
+      "nl": "Sinds middernacht ligt GTA 6 in de winkel voor PS5 en Xbox Series X|S. Het deelt daarmee de titel van best beoordeelde game ooit.",
+      "en": "GTA 6 launched at midnight on PS5 and Xbox Series X|S. It now ties as the highest-rated game ever."
+     },
+     "i": {
+      "nl": "Een pc-versie is nog niet aangekondigd.",
+      "en": "A PC version has not been announced yet."
+     },
+     "src": "Variety",
+     "url": "https://variety.com/2026/gaming/news/gta-6-reviews-highest-rated-video-game-1236951803/"
+    },
+    {
+     "h": {
+      "nl": "Game Awards: GTA 6 leidt met acht nominaties",
+      "en": "Game Awards: GTA 6 leads with eight nominations"
+     },
+     "s": {
+      "nl": "Ook Resident Evil Requiem, Control Resonant en de nieuwe Zelda dingen mee naar Game of the Year. De uitreiking is op 10 december.",
+      "en": "Resident Evil Requiem, Control Resonant and the new Zelda also compete for Game of the Year. The show is on 10 December."
+     },
+     "i": {
+      "nl": "EA Sports FC 27 en Fortnite zijn elk één keer genomineerd.",
+      "en": "EA Sports FC 27 and Fortnite each get one nomination."
+     },
+     "src": "Dexerto",
+     "url": "https://www.dexerto.com/gaming/the-game-awards-2026-3428374"
+    },
+    {
+     "h": {
+      "nl": "FTX-serie The Altruists vandaag op Netflix",
+      "en": "FTX series The Altruists lands on Netflix today"
+     },
+     "s": {
+      "nl": "Julia Garner en Anthony Boyle spelen in het drama over opkomst en val van cryptobeurs FTX. Vrijdag volgt de animatiemusical Steps.",
+      "en": "Julia Garner and Anthony Boyle star in the drama about crypto exchange FTX. Animated musical Steps follows Friday."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "What's on Netflix",
+     "url": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-this-week-november-16-to-22-2026/"
+    },
+    {
+     "h": {
+      "nl": "Warner Bros. TV en Paramount TV gaan samen",
+      "en": "Warner Bros. TV and Paramount TV studios merge"
+     },
+     "s": {
+      "nl": "Na de overname van Warner Bros. Discovery voegt Paramount Skydance beide tv-studio's samen onder Channing Dungey en Matt Thunell.",
+      "en": "After the Warner Bros. Discovery takeover, Paramount Skydance combines both TV studios under Channing Dungey and Matt Thunell."
+     },
+     "i": {
+      "nl": "Minder grote studio's kan het aanbod op streamingdiensten in Nederland veranderen.",
+      "en": "Fewer major studios may reshape streaming catalogues in the Netherlands."
+     },
+     "src": "Deadline",
+     "url": "https://deadline.com/2026/11/warner-bros-tv-paramount-tv-studios-merge-dungey-thunell-1237228079/"
+    },
+    {
+     "h": {
+      "nl": "Tilda Swinton en Brit Marling in nieuw Paramount+-drama",
+      "en": "Tilda Swinton and Brit Marling in new Paramount+ drama"
+     },
+     "s": {
+      "nl": "Clandestine is een politiek drama van de makers van The OA. Een releasedatum is er nog niet.",
+      "en": "Clandestine is a political drama from the creators of The OA. No release date yet."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "The Playlist",
+     "url": "https://theplaylist.net/clandestine-brit-marling-tilda-swinton-paramount-plus-20261118/"
+    }
+   ]
+  }
+ ]
+}

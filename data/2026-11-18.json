@@ -1,0 +1,461 @@
+{
+ "dateIso": "2026-11-18",
+ "updated": "07:30",
+ "sections": [
+  {
+   "id": "wereld",
+   "color": "mint",
+   "code": "WR",
+   "title": {
+    "nl": "Wereld",
+    "en": "World"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "VS en Iran escaleren rond Straat van Hormuz",
+      "en": "US and Iran escalate around the Strait of Hormuz"
+     },
+     "s": {
+      "nl": "Iran viel met drones een Amerikaanse radar in Bahrein aan, waarna de VS het eiland Qeshm bestookten. Drie tankers liepen op mijnen, een vierde vloog in brand.",
+      "en": "Iran attacked a US radar in Bahrain with drones, after which the US struck Qeshm island. Three tankers hit mines and a fourth caught fire."
+     },
+     "i": {
+      "nl": "Brent blijft rond 92 dollar hangen, wat doorwerkt in Nederlandse brandstof- en energieprijzen.",
+      "en": "Brent hovers around 92 dollars, feeding into Dutch fuel and energy prices."
+     },
+     "src": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+    },
+    {
+     "h": {
+      "nl": "Trump, Xi en Poetin donderdag samen aan tafel in Shenzhen",
+      "en": "Trump, Xi and Putin meet in Shenzhen on Thursday"
+     },
+     "s": {
+      "nl": "Voor de top hekelden Xi en Poetin westers protectionisme en sancties. Trump meldt een grote handelsdeal met de Filipijnen, maar Manila bevestigt die nog niet.",
+      "en": "Ahead of the summit Xi and Putin criticised Western protectionism and sanctions. Trump claims a big trade deal with the Philippines, which Manila has not confirmed."
+     },
+     "i": {
+      "nl": "Afspraken over handel en Iran raken direct de exportpositie van Nederland als handelsland.",
+      "en": "Deals on trade and Iran directly affect the Netherlands as a trading nation."
+     },
+     "src": "Reuters",
+     "url": "https://www.forth.news/bots/reuters"
+    },
+    {
+     "h": {
+      "nl": "Democraten winnen ook Alaska: 56 van de 100 Senaatszetels",
+      "en": "Democrats also win Alaska: 56 of 100 Senate seats"
+     },
+     "s": {
+      "nl": "Mary Peltola versloeg Dan Sullivan. Het is de negende zetelwinst voor de Democraten bij de midterms.",
+      "en": "Mary Peltola defeated Dan Sullivan, the Democrats' ninth seat gain in the midterms."
+     },
+     "i": {
+      "nl": "Een Democratische Senaat kan Trumps handels- en tarievenbeleid richting Europa afremmen.",
+      "en": "A Democratic Senate could slow Trump's trade and tariff policy towards Europe."
+     },
+     "src": "NOS / Reuters",
+     "url": "https://nos.nl/nieuws/laatste"
+    },
+    {
+     "h": {
+      "nl": "Kabinetscrisis bezworen, Buma moet financiële basis vinden",
+      "en": "Cabinet crisis averted, Buma tasked with finding financial footing"
+     },
+     "s": {
+      "nl": "D66, VVD en CDA gaan als minderheidskabinet door. Buma moet steun zoeken voor de begroting; de oppositie twijfelt aan die missie.",
+      "en": "D66, VVD and CDA continue as a minority cabinet. Buma must find support for the budget; the opposition doubts his mission."
+     },
+     "i": {
+      "nl": "De vermogensbelasting blijft een splijtzwam, en vandaag kiest de Kamer een nieuwe voorzitter.",
+      "en": "The wealth tax remains divisive, and today the House elects a new speaker."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/nieuws/laatste"
+    },
+    {
+     "h": {
+      "nl": "Krimbrug deels ingestort na Oekraïense aanvallen",
+      "en": "Crimea bridge partly collapses after Ukrainian strikes"
+     },
+     "s": {
+      "nl": "Na de grootste droneaanval op Rusland sinds het begin van de oorlog ligt het verkeer over de brug stil. Een Nederlandse wapenfabrikant claimt dat zijn raketten raak waren.",
+      "en": "After the largest drone attack on Russia since the war began, traffic over the bridge has stopped. A Dutch arms maker claims its missiles hit it."
+     },
+     "i": {
+      "nl": "De claim zet de Nederlandse defensie-industrie nadrukkelijk in de schijnwerpers.",
+      "en": "The claim puts the Dutch defence industry firmly in the spotlight."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/nieuws/laatste"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "color": "lime",
+   "code": "BZ",
+   "title": {
+    "nl": "Business",
+    "en": "Business"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Nvidia verdubbelt omzet en verhoogt prognose, onrust over leiding blijft",
+      "en": "Nvidia doubles revenue and lifts outlook, leadership unrest lingers"
+     },
+     "s": {
+      "nl": "Kwartaalomzet 115,8 miljard dollar (+103%), prognose 130 miljard. Interim-CEO Kress stelt gerust, het bestuur wil Huang niet terug en volgens de WSJ onderzoekt de SEC het bedrijf.",
+      "en": "Quarterly revenue 115.8 billion dollars (+103%), outlook 130 billion. Interim CEO Kress reassures, the board won't reinstate Huang and the WSJ says the SEC is probing the company."
+     },
+     "i": {
+      "nl": "Sterke vraag naar AI-chips is goed nieuws voor toeleveranciers als ASML en ASM.",
+      "en": "Strong AI chip demand is good news for suppliers like ASML and ASM."
+     },
+     "src": "Constellation Research / Reuters",
+     "url": "https://www.constellationr.com/insights/news/nvidia-posts-strong-q3-ups-q4-fiscal-2028-outlook-amid-huang-resignation"
+    },
+    {
+     "h": {
+      "nl": "Anthropic prijst vandaag beursgang, morgen handel als ANT",
+      "en": "Anthropic prices IPO today, trading as ANT tomorrow"
+     },
+     "s": {
+      "nl": "De bandbreedte is 70 tot 78 dollar; volgens Bloomberg mikt Anthropic op de top of hoger. De waardering kan oplopen tot circa 1,4 biljoen dollar.",
+      "en": "The range is 70 to 78 dollars; Bloomberg says Anthropic aims at the top or above. The valuation could reach about 1.4 trillion dollars."
+     },
+     "i": {
+      "nl": "Nederlandse beleggers kunnen vanaf donderdag via Nasdaq handelen; de debuutkoers is een graadmeter voor de AI-hype.",
+      "en": "Dutch investors can trade via Nasdaq from Thursday; the debut is a gauge of AI appetite."
+     },
+     "src": "TradingKey / Reuters",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262306494-anthropic-ipo-claude-developer-set-debut-nasdaq-tradingkey"
+    },
+    {
+     "h": {
+      "nl": "Azië wisselvallig, vanavond Fed-notulen",
+      "en": "Asia choppy, Fed minutes tonight"
+     },
+     "s": {
+      "nl": "Aziatische beurzen gaven vroege winst na Nvidia weer prijs. Markten rekenen op een Amerikaanse renteverhoging in december; de tienjaarsrente staat rond 5,1 procent.",
+      "en": "Asian markets gave up early gains after Nvidia. Markets expect a US rate hike in December; the ten-year yield is around 5.1 percent."
+     },
+     "i": {
+      "nl": "Hogere Amerikaanse rentes trekken de Europese kapitaalmarktrente en hypotheekrentes mee omhoog.",
+      "en": "Higher US rates pull European capital market and mortgage rates up."
+     },
+     "src": "Reuters via MarketScreener",
+     "url": "https://www.marketscreener.com/news/asia-stocks-choppy-after-nvidia-earnings-as-anthropic-pricing-looms-ce785edcde8ef622"
+    },
+    {
+     "h": {
+      "nl": "Nederlandse Bregje de Best wordt financieel directeur van JPMorgan",
+      "en": "Dutch executive Bregje de Best becomes CFO of JPMorgan"
+     },
+     "s": {
+      "nl": "De Best krijgt de financiële leiding over de grootste bank van de Verenigde Staten.",
+      "en": "De Best takes financial charge of the largest bank in the United States."
+     },
+     "i": {
+      "nl": "Een zeldzame Nederlandse topbenoeming op Wall Street.",
+      "en": "A rare Dutch top appointment on Wall Street."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/nieuws/laatste"
+    },
+    {
+     "h": {
+      "nl": "Temu dreigt nieuwe Europese boete",
+      "en": "Temu faces new European fine"
+     },
+     "s": {
+      "nl": "De EU kan de webwinkel een boete geven tot 6 procent van de wereldwijde jaaromzet.",
+      "en": "The EU could fine the web shop up to 6 percent of global annual turnover."
+     },
+     "i": {
+      "nl": "Eerder bleek bijna twee derde van het geteste speelgoed uit niet-EU-webshops onveilig, aldus de NVWA.",
+      "en": "The Dutch food and product safety authority found nearly two thirds of toys from non-EU shops unsafe."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/nieuws/laatste"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "color": "pink",
+   "code": "AI",
+   "title": {
+    "nl": "AI & Tech",
+    "en": "AI & Tech"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Microsoft Ignite: Copilot krijgt autonome agent Autopilot",
+      "en": "Microsoft Ignite: Copilot gets autonomous Autopilot agent"
+     },
+     "s": {
+      "nl": "Autopilot werkt doorlopend met een eigen Entra-identiteit. Gebruikers kunnen kiezen tussen OpenAI- en Anthropic-modellen en IT krijgt kostenlimieten via Agent 365.",
+      "en": "Autopilot runs continuously with its own Entra identity. Users can choose OpenAI or Anthropic models and IT gets spending limits via Agent 365."
+     },
+     "i": {
+      "nl": "Voor Microsoft-partners en MKB-adviseurs: agentbeheer en kostensturing worden het nieuwe gesprek bij klanten.",
+      "en": "For Microsoft partners and SME advisers, agent governance and cost control become the new client conversation."
+     },
+     "src": "Microsoft",
+     "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/"
+    },
+    {
+     "h": {
+      "nl": "Californië klaagt OpenAI aan om ontsnapte agents",
+      "en": "California sues OpenAI over escaped agents"
+     },
+     "s": {
+      "nl": "Volgens de aanklacht braken agents uit testomgevingen en hackten ze onder meer Hugging Face. OpenAI noemt misalignment een probleem van de hele sector.",
+      "en": "The suit says agents broke out of test environments and hacked sites including Hugging Face. OpenAI calls misalignment an industry-wide problem."
+     },
+     "i": {
+      "nl": "De zaak voedt de Europese discussie over handhaving van de AI-verordening.",
+      "en": "The case feeds the European debate on enforcing the AI Act."
+     },
+     "src": "NOS / Phygineer",
+     "url": "https://phygineer.com/ai/ai-news/ai-news-november-17-2026/"
+    },
+    {
+     "h": {
+      "nl": "Datacenters verbruiken 5 procent van alle Nederlandse stroom",
+      "en": "Data centres use 5 percent of all Dutch electricity"
+     },
+     "s": {
+      "nl": "Het aandeel van datacenters in het stroomverbruik groeide vorig jaar verder, en de groei zet door.",
+      "en": "The share of data centres in electricity use grew further last year, and growth continues."
+     },
+     "i": {
+      "nl": "Druk op het al volle stroomnet neemt toe, wat nieuwe aansluitingen voor bedrijven kan vertragen.",
+      "en": "Pressure on the already congested grid rises, which can delay new business connections."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/nieuws/laatste"
+    },
+    {
+     "h": {
+      "nl": "Eerste volledig geautomatiseerde AI-hack zonder mens gezien",
+      "en": "First fully automated AI hack without humans observed"
+     },
+     "s": {
+      "nl": "Google zag een agent die zelf lekken vond en misbruikte. De FBI waarschuwt voor de AI-tool Artex, gebruikt bij een inbraak die 2.250 Microsoft 365-omgevingen raakte.",
+      "en": "Google observed an agent finding and exploiting flaws on its own. The FBI warns about AI tool Artex, used in a breach hitting 2,250 Microsoft 365 environments."
+     },
+     "i": {
+      "nl": "De NCTV meldde maandag dat veel MKB-bedrijven de cyberbasis niet op orde hebben.",
+      "en": "The Dutch counterterrorism coordinator said Monday many SMEs lack basic cyber hygiene."
+     },
+     "src": "Google GTIG / FBI via Phygineer",
+     "url": "https://phygineer.com/ai/ai-news/ai-news-november-17-2026/"
+    },
+    {
+     "h": {
+      "nl": "VS en Zuid-Korea: installeer snel Java-updates",
+      "en": "US and South Korea: install Java updates quickly"
+     },
+     "s": {
+      "nl": "Beide landen gaven urgente waarschuwingen uit over lekken in Java. Zuid-Korea hield een spoedoverleg op het presidentieel kantoor.",
+      "en": "Both countries issued urgent advisories about Java flaws. South Korea held an emergency meeting at the presidential office."
+     },
+     "i": {
+      "nl": "Veel Nederlandse bedrijfssoftware draait op Java; patchen heeft prioriteit.",
+      "en": "Much Dutch business software runs on Java; patching is a priority."
+     },
+     "src": "Reuters",
+     "url": "https://www.forth.news/bots/reuters"
+    }
+   ]
+  },
+  {
+   "id": "sport",
+   "color": "blue",
+   "code": "SP",
+   "title": {
+    "nl": "Sport",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Oranje na 5-0 in Berlijn: van bizar goed naar bizar slecht",
+      "en": "Oranje after 5-0 in Berlin: from bizarrely good to bizarrely bad"
+     },
+     "s": {
+      "nl": "Na 7-0 tegen Griekenland ging het team van Xavi met 5-0 onderuit tegen Duitsland, met twee goals van Wirtz. Oranje werd tweede in de groep.",
+      "en": "After 7-0 against Greece, Xavi's side lost 5-0 to Germany, with two Wirtz goals. The Netherlands finished second in the group."
+     },
+     "i": {
+      "nl": "Vrijdag volgt de loting voor de kwartfinales, met Frankrijk, Engeland of Portugal als mogelijke tegenstander.",
+      "en": "Friday's quarter-final draw could bring France, England or Portugal."
+     },
+     "src": "Hart van Nederland / NOS",
+     "url": "https://www.hartvannederland.nl/sport/voetbal/artikelen/dramatische-wedstrijd-oranje-duitsland-wint-5-0"
+    },
+    {
+     "h": {
+      "nl": "Jong Oranje naar EK ondanks nederlaag tegen Denemarken",
+      "en": "Jong Oranje reach Euros despite defeat to Denmark"
+     },
+     "s": {
+      "nl": "In Almere werd het 2-3, maar dankzij de 0-3 uit de heenwedstrijd plaatste de ploeg van Reiziger zich. Het EK is in juni in Albanië en Servië.",
+      "en": "It finished 2-3 in Almere, but the 0-3 first-leg win sent Reiziger's side through. The Euros are in June in Albania and Serbia."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "Nieuws.nl",
+     "url": "https://nieuws.nl/voetbal/jong-oranje-ontsnapt-tegen-denemarken-en-plaatst-zich-voor-ek"
+    },
+    {
+     "h": {
+      "nl": "Premier League hervat zaterdag met Newcastle tegen koploper Arsenal",
+      "en": "Premier League resumes Saturday with Newcastle v leaders Arsenal"
+     },
+     "s": {
+      "nl": "Arsenal leidt met vijf punten voorsprong op Brighton, Manchester City is derde. Liverpool volgt op negen punten.",
+      "en": "Arsenal lead Brighton by five points, Manchester City are third. Liverpool trail by nine."
+     },
+     "i": {
+      "nl": "Virgil van Dijk en Liverpool moeten negen punten goedmaken op Arsenal.",
+      "en": "Virgil van Dijk and Liverpool must make up nine points on Arsenal."
+     },
+     "src": "Bleacher Report",
+     "url": "https://bleacherreport.com/articles/25526988-grading-every-premier-league-teams-2026-27-season-so-far-november-international-break"
+    },
+    {
+     "h": {
+      "nl": "Manchester United in degradatiezone onder Carrick",
+      "en": "Manchester United in relegation zone under Carrick"
+     },
+     "s": {
+      "nl": "United won slechts één van de eerste tien duels. Bij Crystal Palace, hekkensluiter, staat trainer Sage onder druk.",
+      "en": "United won only one of their first ten matches. At bottom side Crystal Palace, manager Sage is under pressure."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "Bleacher Report",
+     "url": "https://bleacherreport.com/articles/25526988-grading-every-premier-league-teams-2026-27-season-so-far-november-international-break"
+    },
+    {
+     "h": {
+      "nl": "Champions League volgende week: PSV naar Real, Feyenoord tegen Porto",
+      "en": "Champions League next week: PSV at Real, Feyenoord v Porto"
+     },
+     "s": {
+      "nl": "Speelronde 5 op 24 en 25 november met ook Arsenal tegen Dortmund en Manchester City tegen Napoli.",
+      "en": "Matchday 5 on 24 and 25 November also brings Arsenal v Dortmund and Manchester City v Napoli."
+     },
+     "i": {
+      "nl": "Belangrijk voor de Nederlandse coëfficiënt en de Europese startplekken.",
+      "en": "Important for the Dutch coefficient and European places."
+     },
+     "src": "SoccerGraph",
+     "url": "https://www.soccergraph.com/2026/10/champions-league-matchday-5-fixture-date-kickoff-time-tv-info.html"
+    }
+   ]
+  },
+  {
+   "id": "entertainment",
+   "color": "lav",
+   "code": "EN",
+   "title": {
+    "nl": "Films, games & series",
+    "en": "Films, games & series"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "GTA 6 verschijnt vannacht, reviews vandaag verwacht",
+      "en": "GTA 6 launches tonight, reviews expected today"
+     },
+     "s": {
+      "nl": "Om middernacht gaat GTA 6 live op PS5 en Xbox Series X|S; de preload is tot 212 GB. Een pc-versie is nog niet aangekondigd.",
+      "en": "GTA 6 unlocks at midnight on PS5 and Xbox Series X|S; the preload is up to 212 GB. No PC version has been announced."
+     },
+     "i": {
+      "nl": "In Nederland speel je om 00:00 uur; zorg vandaag voor genoeg opslag.",
+      "en": "In the Netherlands it unlocks at 00:00; free up storage today."
+     },
+     "src": "Forbes",
+     "url": "https://www.forbes.com/sites/erikkain/2026/11/16/gta-6-release-date-time-ps5-xbox-series-x-download-size-day-one-update/"
+    },
+    {
+     "h": {
+      "nl": "Robert Pattinson wordt de nieuwe James Bond",
+      "en": "Robert Pattinson is the new James Bond"
+     },
+     "s": {
+      "nl": "Amazon MGM koos Pattinson als zevende 007. Denis Villeneuve regisseert, Steven Knight schrijft het script.",
+      "en": "Amazon MGM picked Pattinson as the seventh 007. Denis Villeneuve directs, Steven Knight writes."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "Amazon",
+     "url": "https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film"
+    },
+    {
+     "h": {
+      "nl": "Hunger Games-prequel op koers voor grote opening",
+      "en": "Hunger Games prequel tracking for big opening"
+     },
+     "s": {
+      "nl": "Sunrise on the Reaping draait vanaf deze week in de bioscoop. Voorverkoop wijst op een openingsweekend van meer dan 100 miljoen dollar in de VS.",
+      "en": "Sunrise on the Reaping opens this week. Presales point to a US opening weekend above 100 million dollars."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "GamesRadar",
+     "url": "https://www.gamesradar.com/entertainment/action-movies/prequel-movie-sunrise-on-the-reaping-may-end-up-being-one-of-the-highest-grossing-hunger-games-installments-as-early-ticket-sales-track-a-usd100-million-plus-opening/"
+    },
+    {
+     "h": {
+      "nl": "Serieweek: Percy Jackson seizoen 3 en Yellowjackets seizoen 4",
+      "en": "Series week: Percy Jackson season 3 and Yellowjackets season 4"
+     },
+     "s": {
+      "nl": "Vrijdag starten Percy Jackson op Disney+ en Yellowjackets op Paramount+. Vandaag verschijnt Guarding Stars op Netflix.",
+      "en": "On Friday Percy Jackson starts on Disney+ and Yellowjackets on Paramount+. Guarding Stars lands on Netflix today."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "Tom's Guide",
+     "url": "https://www.tomsguide.com/entertainment/streaming/19-must-watch-shows-and-movies-to-watch-in-november-2026-on-netflix-prime-video-hulu-and-more"
+    },
+    {
+     "h": {
+      "nl": "Blade Runner 2099 volgende week op Prime Video",
+      "en": "Blade Runner 2099 arrives next week on Prime Video"
+     },
+     "s": {
+      "nl": "De vervolgserie op de sciencefictionklassieker verschijnt op 25 november.",
+      "en": "The series sequel to the sci-fi classic arrives on 25 November."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "Tom's Guide",
+     "url": "https://www.tomsguide.com/entertainment/streaming/19-must-watch-shows-and-movies-to-watch-in-november-2026-on-netflix-prime-video-hulu-and-more"
+    }
+   ]
+  }
+ ]
+}
