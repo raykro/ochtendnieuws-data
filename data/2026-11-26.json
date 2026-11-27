@@ -1,0 +1,461 @@
+{
+ "dateIso": "2026-11-26",
+ "updated": "07:30",
+ "sections": [
+  {
+   "id": "wereld",
+   "color": "mint",
+   "code": "WR",
+   "title": {
+    "nl": "Wereld",
+    "en": "World"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Trump en Rutte waarschuwen Rusland de oorlog niet uit te breiden",
+      "en": "Trump and Rutte warn Russia not to widen the war"
+     },
+     "s": {
+      "nl": "Na overleg in Mar-a-Lago riepen ze op tot snelle vrede. Rutte zegt dat een akkoord veiligheidsgaranties voor Oekraïne moet bevatten.",
+      "en": "After talks at Mar-a-Lago they called for a swift peace. Rutte says any deal must include security guarantees for Ukraine."
+     },
+     "i": {
+      "nl": "Europa wil nog altijd aan tafel bij de vredesgesprekken.",
+      "en": "Europe still wants a seat at the peace talks."
+     },
+     "src": "RTÉ",
+     "url": "https://www.rte.ie/news/ukraine/2026/1126/1600710-trump-nato-ukraine/"
+    },
+    {
+     "h": {
+      "nl": "Oekraïense aanval in Libië doodt twee officieren, ook doden in Kyiv",
+      "en": "Ukrainian strike in Libya kills two officers, deaths in Kyiv too"
+     },
+     "s": {
+      "nl": "Oekraïne viel een Russisch marineschip bij Benghazi aan. In Kyiv vielen doden bij een Russische aanval.",
+      "en": "Ukraine struck a Russian navy ship near Benghazi. A Russian attack killed people in Kyiv."
+     },
+     "i": {
+      "nl": "De oorlog verspreidt zich verder richting de Middellandse Zee.",
+      "en": "The war is spreading further towards the Mediterranean."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641025-twee-libische-officieren-overleden-na-aanval-oekraine-in-kyiv-dode-na-russische-aanval"
+    },
+    {
+     "h": {
+      "nl": "Puigdemont keert volgende maand terug naar Spanje",
+      "en": "Puigdemont to return to Spain next month"
+     },
+     "s": {
+      "nl": "De Catalaanse separatistenleider komt na bijna tien jaar ballingschap terug naar Spaanse bodem.",
+      "en": "The Catalan separatist leader returns to Spanish soil after nearly ten years in exile."
+     },
+     "i": {
+      "nl": "Puigdemont woonde jaren in België, vlak over de grens.",
+      "en": "Puigdemont lived in Belgium for years."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640969-catalaanse-separatistenleider-puigdemont-kondigt-terugkeer-naar-spanje-aan"
+    },
+    {
+     "h": {
+      "nl": "Ruim 2100 migranten op één dag naar de Canarische Eilanden",
+      "en": "Over 2,100 migrants reach the Canary Islands in one day"
+     },
+     "s": {
+      "nl": "Het is een nieuw dagrecord voor de Spaanse eilandengroep.",
+      "en": "It is a new daily record for the Spanish islands."
+     },
+     "i": {
+      "nl": "Voedt het Europese debat over migratie, ook in Den Haag.",
+      "en": "Fuels the European migration debate, including in The Hague."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640978-meer-dan-2100-migranten-bereiken-canarische-eilanden-nieuw-dagrecord"
+    },
+    {
+     "h": {
+      "nl": "Israëlische oppositie verdeeld over eenheidsregering met Netanyahu",
+      "en": "Israeli opposition split over unity government with Netanyahu"
+     },
+     "s": {
+      "nl": "Een deel van de oppositie praat met Netanyahu's partij over samenwerking. In Gaza gaan aanvallen ondanks het bestand vrijwel dagelijks door.",
+      "en": "Part of the opposition is in talks with Netanyahu's party. In Gaza, strikes continue almost daily despite the ceasefire."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640967-israelische-oppositie-verdeeld-over-eenheidsregering-met-partij-van-netanyahu"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "color": "lime",
+   "code": "BZ",
+   "title": {
+    "nl": "Business",
+    "en": "Business"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "VS dreigt met nieuwe importheffingen op EU, China en twaalf anderen",
+      "en": "US proposes new tariffs on EU, China and twelve others"
+     },
+     "s": {
+      "nl": "Washington wil specifieke producten belasten via handelswet 301. Voor China komt er twintig procentpunt bij. Een startdatum is er nog niet.",
+      "en": "Washington wants to tax specific products under Section 301. China faces an extra twenty points. No start date yet."
+     },
+     "i": {
+      "nl": "Nederlandse exporteurs naar de VS kunnen opnieuw geraakt worden.",
+      "en": "Dutch exporters to the US could be hit again."
+     },
+     "src": "CBS News",
+     "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
+    },
+    {
+     "h": {
+      "nl": "Amerikaanse inflatie hoogste sinds 2023, renteverhoging vrijwel zeker",
+      "en": "US inflation highest since 2023, rate hike almost certain"
+     },
+     "s": {
+      "nl": "De PCE-inflatie steeg naar 3,8 procent. Beleggers zien 98 procent kans op een Fed-renteverhoging in december.",
+      "en": "PCE inflation rose to 3.8 percent. Investors see a 98 percent chance of a Fed hike in December."
+     },
+     "i": {
+      "nl": "Hogere Amerikaanse rente kan ook Europese hypotheekrentes opstuwen.",
+      "en": "Higher US rates may push up European mortgage rates."
+     },
+     "src": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+    },
+    {
+     "h": {
+      "nl": "Chipaandelen kelderen ruim zes procent, Nvidia opnieuw lager",
+      "en": "Chip stocks slump over six percent, Nvidia lower again"
+     },
+     "s": {
+      "nl": "Nvidia sloot bijna vier procent lager. De Dow herstelde van een forse daling en sloot licht hoger, de Nasdaq zakte.",
+      "en": "Nvidia closed almost four percent down. The Dow recovered from a steep drop to close slightly higher, while the Nasdaq fell."
+     },
+     "i": {
+      "nl": "Slecht nieuws voor ASML en Besi op het Damrak.",
+      "en": "Bad news for ASML and Besi in Amsterdam."
+     },
+     "src": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+    },
+    {
+     "h": {
+      "nl": "Benzineprijs daalt dankzij pendeltankers rond Hormuz",
+      "en": "Fuel prices fall thanks to shuttle tankers around Hormuz"
+     },
+     "s": {
+      "nl": "Rederijen hebben routes gevonden om de Straat van Hormuz heen, waardoor olie weer beter doorstroomt.",
+      "en": "Shipping firms have found routes around the Strait of Hormuz, easing oil flows."
+     },
+     "i": {
+      "nl": "Tanken wordt in Nederland iets goedkoper.",
+      "en": "Filling up gets a little cheaper in the Netherlands."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640954-prijs-aan-de-pomp-daalt-mede-dankzij-pendeltankers-in-straat-van-hormuz"
+    },
+    {
+     "h": {
+      "nl": "Amerikaanse economie groeide in derde kwartaal 4,3 procent",
+      "en": "US economy grew 4.3 percent in third quarter"
+     },
+     "s": {
+      "nl": "De groei werd naar boven bijgesteld. Vandaag zijn de Amerikaanse beurzen dicht voor Thanksgiving.",
+      "en": "Growth was revised up. US markets are closed today for Thanksgiving."
+     },
+     "i": {
+      "nl": "Sterke VS-vraag helpt Nederlandse exporteurs, zolang heffingen meevallen.",
+      "en": "Strong US demand helps Dutch exporters, as long as tariffs stay limited."
+     },
+     "src": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "color": "pink",
+   "code": "AI",
+   "title": {
+    "nl": "AI & Tech",
+    "en": "AI & Tech"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Nederlandse hackersclub DIVD gehackt, vermoedelijk door autonome AI-agents",
+      "en": "Dutch hacker collective DIVD hacked, likely by autonomous AI agents"
+     },
+     "s": {
+      "nl": "De aanvallers werkten 22 uur vrijwel non-stop. Een alarm bleef zeven uur liggen en niet alle software was bijgewerkt.",
+      "en": "The attackers worked almost nonstop for 22 hours. An alert went unread for seven hours and not all software was patched."
+     },
+     "i": {
+      "nl": "Waarschuwing voor het MKB: monitoring en patchen moeten sneller.",
+      "en": "A warning to SMEs: monitoring and patching must be faster."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640968-nederlandse-hackersgroep-zelf-gehackt-door-autonome-ai-agents"
+    },
+    {
+     "h": {
+      "nl": "Tidal verbant AI-muziek en schrapt bijna dertig miljoen nummers",
+      "en": "Tidal bans AI music and removes nearly thirty million tracks"
+     },
+     "s": {
+      "nl": "Volledig door AI gemaakte nummers verdwijnen. Muziek waarbij AI alleen helpt blijft wel welkom.",
+      "en": "Fully AI-generated tracks are removed. AI-assisted music is still allowed."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640977-muziekstreamingdienst-tidal-verbiedt-ai-muziek-en-verwijdert-bijna-30-miljoen-nummers"
+    },
+    {
+     "h": {
+      "nl": "Medewerkers OpenAI en Anthropic twijfelen over veiligheid nieuwe modellen",
+      "en": "OpenAI and Anthropic staff doubt safety of new models"
+     },
+     "s": {
+      "nl": "Axios meldt op basis van ruim twintig bronnen dat medewerkers vrezen dat sommige geavanceerde modellen niet veilig genoeg zijn.",
+      "en": "Axios, citing over twenty sources, reports staff fear some advanced models may not be safe to release."
+     },
+     "i": {
+      "nl": "Sluit aan bij de toezichtseisen van de Europese AI-verordening.",
+      "en": "Ties in with oversight rules in the EU AI Act."
+     },
+     "src": "The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/"
+    },
+    {
+     "h": {
+      "nl": "Anthropic maakt Claude-artifacts installeerbaar als desktopapp",
+      "en": "Anthropic makes Claude artifacts installable as desktop apps"
+     },
+     "s": {
+      "nl": "Artifacts werken nu als app op Mac en Windows. Ook kondigt Anthropic Skills en Tasks aan voor het MCP-protocol.",
+      "en": "Artifacts now run as apps on Mac and Windows. Anthropic also announced Skills and Tasks for MCP."
+     },
+     "i": {
+      "nl": "Handig voor MKB-klanten die snel interne tools willen.",
+      "en": "Useful for SME clients wanting quick internal tools."
+     },
+     "src": "The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/"
+    },
+    {
+     "h": {
+      "nl": "VS zet Megaspeed op zwarte lijst, bedrijf gelinkt aan Huang-affaire",
+      "en": "US blacklists Megaspeed, firm tied to Huang affair"
+     },
+     "s": {
+      "nl": "Nvidia-topman Huang ligt in het Congres onder vuur over exportregels voor chips.",
+      "en": "Nvidia chief Huang faces congressional scrutiny over chip export controls."
+     },
+     "i": {
+      "nl": "Strengere exportregels raken ook ASML.",
+      "en": "Tighter export rules also affect ASML."
+     },
+     "src": "The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/"
+    }
+   ]
+  },
+  {
+   "id": "sport",
+   "color": "blue",
+   "code": "SP",
+   "title": {
+    "nl": "Sport",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Liverpool wint met 3-0 bij Club Brugge, Isak scoort twee keer",
+      "en": "Liverpool win 3-0 at Club Brugge, Isak scores twice"
+     },
+     "s": {
+      "nl": "Wirtz maakte de andere treffer. Liverpool heeft nu twaalf punten uit vijf duels in de competitiefase.",
+      "en": "Wirtz got the other goal. Liverpool now have twelve points from five league-phase games."
+     },
+     "i": {
+      "nl": "Frimpong begon in de basis, Van Dijk viel in.",
+      "en": "Frimpong started, Van Dijk came on."
+     },
+     "src": "Liverpool FC",
+     "url": "https://www.liverpoolfc.com/news/match-report-liverpool-brugge-champions-league-isak-wirtz"
+    },
+    {
+     "h": {
+      "nl": "Manchester United speelt 2-2 bij Sporting, Bruno Fernandes scoort twee keer",
+      "en": "Manchester United draw 2-2 at Sporting, Bruno Fernandes scores twice"
+     },
+     "s": {
+      "nl": "Luis Suárez scoorde twee keer voor Sporting. United wacht al zeven uitduels op een zege in de Champions League.",
+      "en": "Luis Suárez scored twice for Sporting. United are winless in seven Champions League away games."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/soccer/articles/psg-united-held-draw-bayern-230349378.html"
+    },
+    {
+     "h": {
+      "nl": "Bayern verliest bij Lille, PSG speelt gelijk tegen Roma",
+      "en": "Bayern lose at Lille, PSG held by Roma"
+     },
+     "s": {
+      "nl": "Lille won met 2-1 van een Bayern zonder Kane. PSG en Roma eindigden op 2-2.",
+      "en": "Lille beat a Kane-less Bayern 2-1. PSG and Roma drew 2-2."
+     },
+     "i": {
+      "nl": "Donyell Malen maakte vanaf de stip de gelijkmaker voor Roma.",
+      "en": "Donyell Malen equalised from the spot for Roma."
+     },
+     "src": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/soccer/articles/psg-united-held-draw-bayern-230349378.html"
+    },
+    {
+     "h": {
+      "nl": "Barcelona, Inter en Atlético winnen overtuigend in de Champions League",
+      "en": "Barcelona, Inter and Atlético win comfortably"
+     },
+     "s": {
+      "nl": "Barcelona won met 4-1 van Sabah, Inter met 2-0 van Stuttgart en Atlético met 2-0 van Viking.",
+      "en": "Barcelona beat Sabah 4-1, Inter beat Stuttgart 2-0 and Atlético beat Viking 2-0."
+     },
+     "i": {
+      "nl": "Frenkie de Jong speelde bij Barcelona in de verdediging.",
+      "en": "Frenkie de Jong played in defence for Barcelona."
+     },
+     "src": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/soccer/articles/psg-united-held-draw-bayern-230349378.html"
+    },
+    {
+     "h": {
+      "nl": "Olympisch skikampioene Brignone stopt door blessureleed",
+      "en": "Olympic ski champion Brignone retires through injury"
+     },
+     "s": {
+      "nl": "De 36-jarige Italiaanse beëindigt haar loopbaan door een aanhoudende beenblessure.",
+      "en": "The 36-year-old Italian ends her career due to a persistent leg injury."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640991-olympisch-skikampioene-brignone-36-beeindigt-loopbaan-door-aanhoudend-blessureleed"
+    }
+   ]
+  },
+  {
+   "id": "entertainment",
+   "color": "lav",
+   "code": "EN",
+   "title": {
+    "nl": "Films, games & series",
+    "en": "Films, games & series"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Gordon Ramsay wordt de nieuwe presentator van Top Gear",
+      "en": "Gordon Ramsay becomes the new Top Gear host"
+     },
+     "s": {
+      "nl": "De opnames beginnen volgend jaar, de uitzendingen volgen vanaf 2028.",
+      "en": "Filming starts next year, with broadcasts from 2028."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641022-temperamentvolle-tv-kok-gordon-ramsay-nieuwe-presentator-top-gear"
+    },
+    {
+     "h": {
+      "nl": "Lords of the Fallen 2 uitgesteld tot april 2027",
+      "en": "Lords of the Fallen 2 delayed to April 2027"
+     },
+     "s": {
+      "nl": "De baas van de studio maakte het uitstel van de soulslike-RPG bekend.",
+      "en": "The studio head announced the delay of the soulslike RPG."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "GamesRadar",
+     "url": "https://www.gamesradar.com/news/archive/2026/11/"
+    },
+    {
+     "h": {
+      "nl": "Mario Kart World krijgt acht nieuwe banen",
+      "en": "Mario Kart World adds eight new tracks"
+     },
+     "s": {
+      "nl": "De nieuwe update bevat vervolgen op oude Nintendo-banen.",
+      "en": "The update brings sequels to classic Nintendo tracks."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "GamesRadar",
+     "url": "https://www.gamesradar.com/news/archive/2026/11/"
+    },
+    {
+     "h": {
+      "nl": "Blade Runner 2099 krijgt lovende eerste recensies",
+      "en": "Blade Runner 2099 earns strong first reviews"
+     },
+     "s": {
+      "nl": "Critici prijzen vooral de wereld die de serie neerzet.",
+      "en": "Critics praise the series' world-building in particular."
+     },
+     "i": {
+      "nl": "De serie is in Nederland te zien op Prime Video.",
+      "en": "The series streams on Prime Video in the Netherlands."
+     },
+     "src": "GamesRadar",
+     "url": "https://www.gamesradar.com/news/archive/2026/11/"
+    },
+    {
+     "h": {
+      "nl": "Capcom sluit online dinoshooter Exoprimal volgend jaar",
+      "en": "Capcom to shut down online dino shooter Exoprimal next year"
+     },
+     "s": {
+      "nl": "Het spel verdwijnt vier jaar na de release.",
+      "en": "The game goes offline four years after launch."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "GamesRadar",
+     "url": "https://www.gamesradar.com/news/archive/2026/11/"
+    }
+   ]
+  }
+ ]
+}

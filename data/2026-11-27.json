@@ -1,0 +1,461 @@
+{
+ "dateIso": "2026-11-27",
+ "updated": "07:30",
+ "sections": [
+  {
+   "id": "wereld",
+   "color": "mint",
+   "code": "WR",
+   "title": {
+    "nl": "Wereld",
+    "en": "World"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "EU-top over de meerjarenbegroting eindigt zonder akkoord",
+      "en": "EU summit on long-term budget ends without a deal"
+     },
+     "s": {
+      "nl": "Na een nachtelijk overleg liggen de landen ver uit elkaar over 1582 miljard euro voor 2028 tot 2034. Macron dreigt met een veto op bezuinigingen.",
+      "en": "After all-night talks, countries remain far apart on 1,582 billion euros for 2028 to 2034. Macron threatens to veto any cuts."
+     },
+     "i": {
+      "nl": "Jetten wil een lager plafond, een korting en een kwart van de Rotterdamse douane-inkomsten houden.",
+      "en": "Jetten wants a lower ceiling, a rebate and to keep a quarter of Rotterdam customs revenue."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641176-hard-tegen-hard-bij-begrotingsonderhandelingen-eu-geen-akkoord-na-nachtelijk-overleg"
+    },
+    {
+     "h": {
+      "nl": "Zelensky kritisch op Amerikaanse steun: tekort aan raketten kost levens",
+      "en": "Zelensky criticises US support: missile shortage costs lives"
+     },
+     "s": {
+      "nl": "Volgens Zelensky zet Washington Rusland te weinig onder druk en vertragen Patriot-leveringen. Russische aanvallen op Kyiv worden heviger.",
+      "en": "Zelensky says Washington is not pressuring Russia enough and Patriot deliveries are delayed. Russian attacks on Kyiv are intensifying."
+     },
+     "i": {
+      "nl": "Vergroot de druk op Europa, ook Nederland, om meer luchtverdediging te leveren.",
+      "en": "Raises pressure on Europe, including the Netherlands, to supply more air defence."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641180-zelensky-kritisch-op-amerikaanse-steun-tekort-aan-raketten-kost-levens"
+    },
+    {
+     "h": {
+      "nl": "Twee Italianen omgekomen bij Iraanse droneaanval in Koeweit",
+      "en": "Two Italians killed in Iranian drone attack in Kuwait"
+     },
+     "s": {
+      "nl": "De technici van Rheinmetall werden geraakt door brokstukken van onderschepte drones bij een luchtverdedigingspost. Iran ontkent.",
+      "en": "The Rheinmetall technicians were hit by debris from intercepted drones at an air defence site. Iran denies involvement."
+     },
+     "i": {
+      "nl": "De onrust in de Golf houdt de olieprijs en dus de pompprijs hoog.",
+      "en": "Gulf unrest keeps oil and pump prices high."
+     },
+     "src": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait"
+    },
+    {
+     "h": {
+      "nl": "Israëlische minister Katz dreigt met nieuw offensief in Gaza",
+      "en": "Israeli minister Katz threatens new Gaza offensive"
+     },
+     "s": {
+      "nl": "Hij eist dat Hamas ontwapent. Ondanks het bestand vielen in een jaar ruim 1600 doden door Israëlische aanvallen.",
+      "en": "He demands Hamas disarm. Despite the ceasefire, Israeli strikes have killed over 1,600 people in a year."
+     },
+     "i": {
+      "nl": "De Kamer wil 10 miljoen euro voor een winternoodpakket voor Gaza.",
+      "en": "Dutch MPs want 10 million euros for a Gaza winter aid package."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641153-israelische-minister-katz-voert-druk-op-en-dreigt-met-nieuw-offensief-in-gaza"
+    },
+    {
+     "h": {
+      "nl": "Nieuw-Zeeland zonder meerderheid na definitieve verkiezingsuitslag",
+      "en": "New Zealand without majority after final election result"
+     },
+     "s": {
+      "nl": "Het rechtse blok strandt op 65 van de 130 zetels, één te weinig. De nieuwe middenpartij Opportunity wordt mogelijk beslissend.",
+      "en": "The right-wing bloc ends on 65 of 130 seats, one short. The new centrist party Opportunity may hold the balance."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641181-definitieve-uitslag-verkiezingen-nieuw-zeeland-geen-meerderheid-voor-links-of-rechts"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "color": "lime",
+   "code": "BZ",
+   "title": {
+    "nl": "Business",
+    "en": "Business"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Spanjaard Hernández de Cos wordt ECB-president, Knot grijpt naast de functie",
+      "en": "Spain's Hernández de Cos to lead ECB, Knot misses out"
+     },
+     "s": {
+      "nl": "Hij volgt naar verwachting in februari Lagarde op. Duitsland en Frankrijk steunden hem, Nederland legt zich erbij neer.",
+      "en": "He is expected to succeed Lagarde in February. Germany and France backed him, and the Netherlands has accepted it."
+     },
+     "i": {
+      "nl": "Een Nederlandse ECB-baas zit er niet in, beleggers verwachten wel continuïteit in het rentebeleid.",
+      "en": "No Dutch ECB chief, but investors expect continuity in rate policy."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641111-spanjaard-hernandez-de-cos-wordt-president-ecb-klaas-knot-grijpt-naast-europese-topfunctie"
+    },
+    {
+     "h": {
+      "nl": "Kabinet verzet zich fel tegen Amerikaanse wet die ASML aan banden legt",
+      "en": "Cabinet strongly opposes US bill restricting ASML"
+     },
+     "s": {
+      "nl": "De Match Act kan ASML verbieden in China te leveren of machines te onderhouden. Minister Sjoerdsma zegt dat Nederland zich de wet niet laat voorschrijven.",
+      "en": "The Match Act could bar ASML from selling or servicing machines in China. Minister Sjoerdsma says the Netherlands won't be dictated to."
+     },
+     "i": {
+      "nl": "ASML haalt ongeveer dertig procent van de omzet uit China.",
+      "en": "ASML earns about thirty percent of its revenue in China."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641087-kabinet-over-regels-vs-voor-asml-wij-laten-ons-de-wet-niet-voorschrijven"
+    },
+    {
+     "h": {
+      "nl": "VS wil nieuwe heffingen voor de EU begrenzen op vijftien procent",
+      "en": "US plans to cap new EU tariffs at fifteen percent"
+     },
+     "s": {
+      "nl": "De handelsvertegenwoordiger houdt zich aan eerdere deals en de heffingen gaan pas na een hoorzitting op 25 januari in. Europese beurzen stegen bijna twee procent.",
+      "en": "The trade office will stick to earlier deals, and tariffs only start after a 25 January hearing. European stocks rose almost two percent."
+     },
+     "i": {
+      "nl": "Minder onzekerheid voor Nederlandse exporteurs naar de VS.",
+      "en": "Less uncertainty for Dutch exporters to the US."
+     },
+     "src": "Eurasia Business News",
+     "url": "https://eurasiabusinessnews.com/2026/11/27/stock-markets-today-november-26-2026-european-and-asian-stocks-rally-as-tariff-fears-ease/"
+    },
+    {
+     "h": {
+      "nl": "Olieprijs stijgt door aanvallen in de Golf, OPEC+ vergadert zondag",
+      "en": "Oil rises on Gulf attacks, OPEC+ meets Sunday"
+     },
+     "s": {
+      "nl": "Brent staat boven de negentig dollar na berichten over een aanval op een Saoedische raffinaderij en mijnen in de Straat van Hormuz.",
+      "en": "Brent is above ninety dollars after reports of a strike on a Saudi refinery and mines in the Strait of Hormuz."
+     },
+     "i": {
+      "nl": "De recente daling aan de pomp kan zo weer omslaan.",
+      "en": "The recent fall in Dutch pump prices could reverse."
+     },
+     "src": "Eurasia Business News",
+     "url": "https://eurasiabusinessnews.com/2026/11/27/stock-markets-today-november-26-2026-european-and-asian-stocks-rally-as-tariff-fears-ease/"
+    },
+    {
+     "h": {
+      "nl": "Verplichte arbeidsongeschiktheidsverzekering voor zzp'ers opnieuw uitgesteld",
+      "en": "Mandatory disability insurance for self-employed delayed again"
+     },
+     "s": {
+      "nl": "De verzekering komt er niet voor 2030. Belastingdienst en UWV kunnen de uitvoering niet aan.",
+      "en": "The insurance won't start before 2030. The tax office and UWV cannot handle the rollout."
+     },
+     "i": {
+      "nl": "Zzp'ers blijven voorlopig zelf verantwoordelijk voor hun inkomen bij ziekte.",
+      "en": "Freelancers remain responsible for their own income if ill."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641126-verzekering-arbeidsongeschiktheid-voor-zzp-ers-verder-uitgesteld"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "color": "pink",
+   "code": "AI",
+   "title": {
+    "nl": "AI & Tech",
+    "en": "AI & Tech"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "AI-gebruik bij Nederlandse bedrijven verdubbeld, mkb maakt inhaalslag",
+      "en": "AI use at Dutch firms doubles, SMEs catching up"
+     },
+     "s": {
+      "nl": "Volgens het CBS gebruikt 41 procent van de bedrijven AI, een jaar eerder was dat 18 procent. Ruim de helft ziet hogere productiviteit.",
+      "en": "According to CBS, 41 percent of firms use AI, up from 18 percent a year earlier. Over half report higher productivity."
+     },
+     "i": {
+      "nl": "Kansen voor AI-advies: het mkb groeit het hardst, ook in boekhouding en planning.",
+      "en": "Opportunity for AI advisors: SMEs grow fastest, including in accounting and planning."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641047-ai-gebruik-door-bedrijven-verdubbeld-inhaalslag-bij-mkb-ers"
+    },
+    {
+     "h": {
+      "nl": "Rechter beslist voor kerst over verbod op camerabril van Meta",
+      "en": "Court to rule before Christmas on banning Meta camera glasses"
+     },
+     "s": {
+      "nl": "De Consumentenbond en twee stichtingen willen de bril verbieden omdat je er stiekem mee kunt filmen. Meta verzet zich.",
+      "en": "The Consumers' Association and two foundations want the glasses banned over secret filming. Meta opposes it."
+     },
+     "i": {
+      "nl": "De Amsterdamse rechtbank doet uiterlijk 24 december uitspraak.",
+      "en": "The Amsterdam court rules by 24 December."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641106-rechter-beslist-over-verbod-op-meta-bril-vanwege-misbruik-met-stiekem-filmen"
+    },
+    {
+     "h": {
+      "nl": "SpaceX mag tot een miljoen satellieten lanceren voor AI-rekenkracht",
+      "en": "SpaceX cleared for up to a million satellites for AI computing"
+     },
+     "s": {
+      "nl": "De Amerikaanse FCC gaf toestemming voor een netwerk van datacenters in de ruimte op zonne-energie. Wetenschappers twijfelen aan koeling en kosten.",
+      "en": "The US FCC approved a network of solar-powered data centres in orbit. Scientists doubt the cooling and economics."
+     },
+     "i": {
+      "nl": "Deskundigen tegenover de NOS twijfelen of dit veilig kan.",
+      "en": "Experts speaking to NOS doubt it can be done safely."
+     },
+     "src": "AP",
+     "url": "https://apnews.com/article/b9897fe06f851ffaf92fd304ae69075c"
+    },
+    {
+     "h": {
+      "nl": "OpenAI voegt gebruikslimieten van ChatGPT Chat en Work samen",
+      "en": "OpenAI merges ChatGPT Chat and Work usage limits"
+     },
+     "s": {
+      "nl": "Intensieve gebruikers kunnen daardoor sneller tegen een limiet aanlopen. De bredere uitrol volgt in december.",
+      "en": "Heavy users may hit limits sooner. Wider rollout follows in December."
+     },
+     "i": {
+      "nl": "Relevant voor bedrijven die hun AI-abonnementen en kosten herzien.",
+      "en": "Relevant for firms reviewing AI subscriptions and costs."
+     },
+     "src": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+     "h": {
+      "nl": "Anthropic liet AI-agents zijn API herschrijven van Python naar Rust",
+      "en": "Anthropic had AI agents rewrite its API from Python to Rust"
+     },
+     "s": {
+      "nl": "Claude-agents zetten de code om onder menselijk toezicht. Dat levert zeventig procent minder rekenkracht per verzoek op.",
+      "en": "Claude agents ported the code under human review, cutting compute per request by seventy percent."
+     },
+     "i": {
+      "nl": "Voorbeeld van hoe agents oude bedrijfssoftware kunnen moderniseren.",
+      "en": "An example of agents modernising legacy business software."
+     },
+     "src": "Anthropic",
+     "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+    }
+   ]
+  },
+  {
+   "id": "sport",
+   "color": "blue",
+   "code": "SP",
+   "title": {
+    "nl": "Sport",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "AZ draait 2-0 achterstand om en wint met 4-2 bij Sparta Praag",
+      "en": "AZ come from 2-0 down to win 4-2 at Sparta Prague"
+     },
+     "s": {
+      "nl": "Koopmeiners en Daal brachten AZ terug, Oufkir maakte er twee. AZ is pas de derde ploeg die zo terugkomt.",
+      "en": "Koopmeiners and Daal brought AZ back, Oufkir scored twice. AZ are only the third side to recover like this."
+     },
+     "i": {
+      "nl": "Belangrijke punten in de race naar de knock-outfase.",
+      "en": "Key points in the race for the knockout stage."
+     },
+     "src": "NL Times",
+     "url": "https://nltimes.nl/2026/11/27/ajax-az-nec-win-europe-twente-suffer-late-defeat"
+    },
+    {
+     "h": {
+      "nl": "NEC verslaat Rennes met 3-1 in de Europa League",
+      "en": "NEC beat Rennes 3-1 in the Europa League"
+     },
+     "s": {
+      "nl": "Linssen, Chery vanaf de stip en Bischoff scoorden. NEC staat dicht bij de knock-outfase.",
+      "en": "Linssen, Chery from the spot and Bischoff scored. NEC are close to the knockout stage."
+     },
+     "i": {
+      "nl": "Goed nieuws voor de Nederlandse coëfficiënt.",
+      "en": "Good news for the Dutch UEFA coefficient."
+     },
+     "src": "NL Times",
+     "url": "https://nltimes.nl/2026/11/27/ajax-az-nec-win-europe-twente-suffer-late-defeat"
+    },
+    {
+     "h": {
+      "nl": "Ajax wint met 4-0 van Thun, Twente verliest in blessuretijd",
+      "en": "Ajax beat Thun 4-0, Twente lose in stoppage time"
+     },
+     "s": {
+      "nl": "Bounida scoorde twee keer voor Ajax, Berghuis maakte de vierde. Twente verloor met 2-1 bij Freiburg na een late goal van Beste.",
+      "en": "Bounida scored twice for Ajax, Berghuis added the fourth. Twente lost 2-1 at Freiburg to a late Beste goal."
+     },
+     "i": {
+      "nl": "Ajax boekt de derde zege op rij in de Conference League.",
+      "en": "Ajax's third straight Conference League win."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641156-bounida-leidt-ajax-langs-thun-met-twee-goals-berghuis-zorgt-voor-fraai-slotakkoord"
+    },
+    {
+     "h": {
+      "nl": "Bournemouth koploper in Europa League, ook Crystal Palace wint",
+      "en": "Bournemouth top the Europa League, Crystal Palace win too"
+     },
+     "s": {
+      "nl": "Bournemouth won met tien man met 2-1 van Celta Vigo. Palace versloeg Real Sociedad met 2-1, Sunderland speelde 1-1.",
+      "en": "Ten-man Bournemouth beat Celta Vigo 2-1. Palace beat Real Sociedad 2-1, Sunderland drew 1-1."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "AP",
+     "url": "https://abcnews.com/Sports/wireStory/bournemouth-tops-europa-league-after-beating-celta-vigo-138472338"
+    },
+    {
+     "h": {
+      "nl": "Topper Arsenal tegen Manchester City zondag, City vier duels zonder zege",
+      "en": "Arsenal host Manchester City on Sunday, City winless in four"
+     },
+     "s": {
+      "nl": "Koploper Arsenal kan de koppositie verstevigen. Vanavond opent Nottingham Forest tegen Chelsea de speelronde.",
+      "en": "Leaders Arsenal can strengthen their grip on top. Nottingham Forest v Chelsea opens the round tonight."
+     },
+     "i": {
+      "nl": "Zondag ook Everton tegen Liverpool, met Van Dijk en Frimpong.",
+      "en": "Also Sunday: Everton v Liverpool, with Van Dijk and Frimpong."
+     },
+     "src": "Sports Illustrated",
+     "url": "https://si.com/soccer/premier-league-predictions-everton-liverpool-arsenal-man-city-gameweek-12-2026-27"
+    }
+   ]
+  },
+  {
+   "id": "entertainment",
+   "color": "lav",
+   "code": "EN",
+   "title": {
+    "nl": "Films, games & series",
+    "en": "Films, games & series"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Personeel van Rockstar UK stemt tegen erkenning van vakbond",
+      "en": "Rockstar UK staff vote against union recognition"
+     },
+     "s": {
+      "nl": "Ruim 75 procent stemde tegen bij een opkomst van 93 procent, kort na de release van GTA 6. Vakbond IWGB gaat door met organiseren.",
+      "en": "Over 75 percent voted against on a 93 percent turnout, shortly after GTA 6's release. The IWGB union will keep organising."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "Herald Scotland",
+     "url": "https://uk.news.yahoo.com/sign-double-down-rockstars-uk-162826826.html"
+    },
+    {
+     "h": {
+      "nl": "Nieuwe Hunger Games-film wint Thanksgiving in de bioscoop",
+      "en": "New Hunger Games film wins Thanksgiving box office"
+     },
+     "s": {
+      "nl": "Sunrise on the Reaping haalde op woensdag 15 miljoen dollar op en koerst op 85 miljoen over vijf dagen. Focker-In-Law opende met 5 miljoen.",
+      "en": "Sunrise on the Reaping took 15 million dollars on Wednesday, heading for 85 million over five days. Focker-In-Law opened with 5 million."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "Deadline",
+     "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+    },
+    {
+     "h": {
+      "nl": "Fortnite sluit hoofdstuk 7 af met live-event op 5 december",
+      "en": "Fortnite closes Chapter 7 with live event on 5 December"
+     },
+     "s": {
+      "nl": "Het event Out of Time onthult wie Captain X is en luidt hoofdstuk 8 in.",
+      "en": "The Out of Time event reveals Captain X and kicks off Chapter 8."
+     },
+     "i": {
+      "nl": "Het event begint zaterdag 5 december om 20:00 Nederlandse tijd.",
+      "en": "The event starts Saturday 5 December at 8pm Dutch time."
+     },
+     "src": "Beebom",
+     "url": "https://beebom.com/fortnite-chapter-7-finale-out-of-time-live-event-announced/"
+    },
+    {
+     "h": {
+      "nl": "Gérard Depardieu moet terechtstaan voor verkrachting",
+      "en": "Gérard Depardieu must stand trial for rape"
+     },
+     "s": {
+      "nl": "Het Parijse hof van beroep wees zijn verzoek af om de zaak te seponeren. De acteur ontkent.",
+      "en": "The Paris appeals court rejected his bid to have the case dropped. The actor denies the charge."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641130-franse-acteur-gerard-depardieu-moet-terechtstaan-voor-verkrachting"
+    },
+    {
+     "h": {
+      "nl": "Brad Pitt en Angelina Jolie schikken ruzie over wijngoed Miraval",
+      "en": "Brad Pitt and Angelina Jolie settle Miraval winery dispute"
+     },
+     "s": {
+      "nl": "Daarmee lijken alle rechtszaken tussen het voormalige stel na vier jaar ten einde.",
+      "en": "This appears to end all legal battles between the former couple after four years."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2641040-brad-pitt-en-angelina-jolie-treffen-na-jarenlange-ruzie-schikking-over-wijngaard"
+    }
+   ]
+  }
+ ]
+}

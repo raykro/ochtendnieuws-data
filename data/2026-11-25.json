@@ -1,0 +1,461 @@
+{
+ "dateIso": "2026-11-25",
+ "updated": "07:30",
+ "sections": [
+  {
+   "id": "wereld",
+   "color": "mint",
+   "code": "WR",
+   "title": {
+    "nl": "Wereld",
+    "en": "World"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Hongaarse premier bezoekt Oekraïne, voor het eerst sinds 2015",
+      "en": "Hungarian prime minister visits Ukraine for first time since 2015"
+     },
+     "s": {
+      "nl": "Kyiv spreekt van een historische dag. Het bezoek markeert een duidelijke koerswijziging van Boedapest tegenover Oekraïne.",
+      "en": "Kyiv calls it a historic day. The visit marks a clear shift in Budapest's stance towards Ukraine."
+     },
+     "i": {
+      "nl": "Minder Hongaarse blokkades kan EU-steun en sancties sneller maken.",
+      "en": "Fewer Hungarian vetoes could speed up EU aid and sanctions."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640891-hongaarse-premier-bezoekt-oekraine-voor-het-eerst-sinds-2015-historische-dag"
+    },
+    {
+     "h": {
+      "nl": "NAVO stuurt radarvliegtuig naar Polen na vondst Russische raketresten",
+      "en": "NATO sends radar aircraft to Poland after Russian missile debris found"
+     },
+     "s": {
+      "nl": "In Polen zijn resten van Russische kruisraketten gevonden. Inlichtingendiensten melden ook dat Rusland een kernwapen in de ruimte wil plaatsen.",
+      "en": "Remnants of Russian cruise missiles were found in Poland. Intelligence services also say Russia wants to put a nuclear weapon in space."
+     },
+     "i": {
+      "nl": "Nederland draagt bij aan de NAVO-luchtverdediging aan de oostflank.",
+      "en": "The Netherlands contributes to NATO air defence on the eastern flank."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640773-navo-stuurt-radarvliegtuig-naar-polen-na-vondst-van-resten-russische-raketten"
+    },
+    {
+     "h": {
+      "nl": "Amerikaanse jury: Huawei schuldig aan diefstal van bedrijfsgeheimen",
+      "en": "US jury finds Huawei guilty of trade secret theft"
+     },
+     "s": {
+      "nl": "Huawei is ook schuldig aan bankfraude en sanctieomzeiling, maar vrijgesproken van het leiden van een criminele organisatie. De straf volgt in september.",
+      "en": "Huawei was also convicted of bank fraud and sanctions evasion, but acquitted of racketeering. Sentencing follows in September."
+     },
+     "i": {
+      "nl": "Voedt het Nederlandse debat over Chinese apparatuur in telecomnetten.",
+      "en": "Fuels the Dutch debate over Chinese equipment in telecom networks."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640907-huawei-in-vs-schuldig-bevonden-aan-diefstal-van-bedrijsgeheimen"
+    },
+    {
+     "h": {
+      "nl": "Hof: Nederland moet bindende klimaatdoelen blijven vaststellen",
+      "en": "Court: the Netherlands must keep setting binding climate targets"
+     },
+     "s": {
+      "nl": "Het gerechtshof in Den Haag verbiedt het kabinet om het vaststellen van bindende klimaatdoelen op te schorten.",
+      "en": "The Hague appeals court bars the cabinet from suspending binding climate targets."
+     },
+     "i": {
+      "nl": "Het kabinet moet zijn klimaatplannen opnieuw bekijken.",
+      "en": "The cabinet will have to revisit its climate plans."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640838-hof-nederland-moet-doorgaan-met-maken-bindende-klimaatdoelen"
+    },
+    {
+     "h": {
+      "nl": "Gewapende mannen gijzelen zeker 25 mensen in Colombiaans Cartagena",
+      "en": "Armed men hold at least 25 hostages in Cartagena, Colombia"
+     },
+     "s": {
+      "nl": "De gijzelnemers eisen gepantserde voertuigen en een vrije aftocht. Colombia kampt met oplopend bendegeweld.",
+      "en": "The hostage-takers demand armoured vehicles and safe passage. Colombia faces rising gang violence."
+     },
+     "i": {
+      "nl": "Cartagena is populair bij Nederlandse toeristen; check het reisadvies.",
+      "en": "Cartagena is popular with Dutch tourists; check travel advice."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640884-gewapende-mannen-gijzelen-zeker-25-mensen-in-colombiaanse-stad-cartagena"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "color": "lime",
+   "code": "BZ",
+   "title": {
+    "nl": "Business",
+    "en": "Business"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Aandeel Anthropic zakt onder de introductieprijs van 83 dollar",
+      "en": "Anthropic shares slip below 83 dollar IPO price"
+     },
+     "s": {
+      "nl": "Na een piek van 115 dollar op dag één verloor het aandeel dinsdag ruim 9 procent. Analisten wijzen op winstnemingen en de grote kapitaalbehoefte.",
+      "en": "After peaking at 115 dollars on day one, the stock lost over 9 percent on Tuesday. Analysts cite profit-taking and heavy capital needs."
+     },
+     "i": {
+      "nl": "Ook ASML leed onder de nervositeit rond AI-aandelen.",
+      "en": "ASML also suffered from AI-stock jitters."
+     },
+     "src": "AP",
+     "url": "https://www.wptf.com/2026/11/24/19515/"
+    },
+    {
+     "h": {
+      "nl": "Nvidia-baas Huang terug en biedt personeel excuses aan",
+      "en": "Nvidia chief Huang returns and apologises to staff"
+     },
+     "s": {
+      "nl": "Het aandeel steeg maandag 31 procent na zijn terugkeer en zakte dinsdag weer 7 procent. Huang zegt in therapie te zijn.",
+      "en": "The stock jumped 31 percent on Monday after his return and fell 7 percent on Tuesday. Huang says he is in therapy."
+     },
+     "i": {
+      "nl": "Nederlandse pensioenfondsen hebben fors belegd in Nvidia.",
+      "en": "Dutch pension funds hold large stakes in Nvidia."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640898-jensen-huang-zegt-bij-terugkomst-nvidia-sorry-tegen-medewerkers-en-is-in-therapie"
+    },
+    {
+     "h": {
+      "nl": "DNB waarschuwt voor risico's van snelle groei van AI",
+      "en": "Dutch central bank warns of risks from rapid AI growth"
+     },
+     "s": {
+      "nl": "De Nederlandsche Bank ziet kans op zware AI-cyberaanvallen en een koersval als AI-winsten tegenvallen.",
+      "en": "DNB sees a risk of major AI cyberattacks and a market drop if AI profits disappoint."
+     },
+     "i": {
+      "nl": "Pensioenfondsen hebben zo'n 120 miljard euro in Amerikaanse techbedrijven.",
+      "en": "Pension funds hold about 120 billion euros in US tech companies."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640847-onrustige-beurzen-en-cyberaanvallen-dnb-ziet-risico-in-snelle-groei-ai"
+    },
+    {
+     "h": {
+      "nl": "Dow boven 50.000, markt rekent op Fed-renteverhoging in december",
+      "en": "Dow tops 50,000 as markets price in a December Fed hike"
+     },
+     "s": {
+      "nl": "Chipfondsen daalden, maar de Dow sloot op recordhoogte. Beleggers zien 95 procent kans op een renteverhoging.",
+      "en": "Chip stocks fell, but the Dow closed at a record. Investors see a 95 percent chance of a rate hike."
+     },
+     "i": {
+      "nl": "Hogere Amerikaanse rente drukt de euro en kan hypotheekrentes opstuwen.",
+      "en": "Higher US rates weigh on the euro and may push up mortgage rates."
+     },
+     "src": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+    },
+    {
+     "h": {
+      "nl": "Treinkaartjes worden voorlopig niet duurder, tot zeker eind mei",
+      "en": "Train fares frozen until at least end of May"
+     },
+     "s": {
+      "nl": "Na druk van de Tweede Kamer blijft de prijs van treinkaartjes voorlopig gelijk. Wat er daarna gebeurt, is nog onduidelijk.",
+      "en": "After pressure from parliament, train fares stay unchanged for now. What happens after that is unclear."
+     },
+     "i": {
+      "nl": "Forenzen ontlopen voorlopig een prijsstijging bij de NS.",
+      "en": "Commuters avoid an NS fare rise for now."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640888-treinkaartjes-voorlopig-niet-duurder-prijs-blijft-tot-zeker-eind-mei-gelijk"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "color": "pink",
+   "code": "AI",
+   "title": {
+    "nl": "AI & Tech",
+    "en": "AI & Tech"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "Microsoft roept intern code rood uit na grote storing",
+      "en": "Microsoft declares internal code red after major outage"
+     },
+     "s": {
+      "nl": "Aanleiding is de wereldwijde storing van 13 november, toen Outlook, Teams en Copilot urenlang plat lagen.",
+      "en": "It follows the global outage of 13 November, when Outlook, Teams and Copilot were down for hours."
+     },
+     "i": {
+      "nl": "Klanten van Microsoft-partners vragen nu om betere continuïteitsplannen.",
+      "en": "Customers of Microsoft partners will want better continuity plans."
+     },
+     "src": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+    },
+    {
+     "h": {
+      "nl": "Amazon koopt AI-technologie en team van Decart voor 7,5 miljard",
+      "en": "Amazon buys Decart's AI tech and team for 7.5 billion"
+     },
+     "s": {
+      "nl": "De software moet AI-modellen efficiënter laten draaien op Amazons eigen Trainium-chips.",
+      "en": "The software should help AI models run more efficiently on Amazon's own Trainium chips."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"
+    },
+    {
+     "h": {
+      "nl": "Anthropic lanceert Claude Ship voor codereview en goedkeuringen",
+      "en": "Anthropic launches Claude Ship for code review and approvals"
+     },
+     "s": {
+      "nl": "De bèta beoordeelt en repareert code volgens teamregels en werkt met GitHub, met een nieuw ship-commando in Claude Code.",
+      "en": "The beta reviews and fixes code under team rules, works with GitHub and adds a ship command in Claude Code."
+     },
+     "i": {
+      "nl": "Interessant voor MKB-teams die AI-codering willen borgen.",
+      "en": "Relevant for SME teams wanting governed AI coding."
+     },
+     "src": "The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"
+    },
+    {
+     "h": {
+      "nl": "Twee Amerikaanse staten klagen xAI aan om seksuele Grok-beelden",
+      "en": "Two US states sue xAI over sexualised Grok images"
+     },
+     "s": {
+      "nl": "Oregon en Virginia stellen dat Grok seksuele beelden zonder toestemming maakte, ook van kinderen. Ze eisen boetes.",
+      "en": "Oregon and Virginia allege Grok made non-consensual sexual images, including of children. They seek penalties."
+     },
+     "i": {
+      "nl": "Past bij de strengere Europese aanpak via de AI-verordening.",
+      "en": "Fits the stricter European approach under the AI Act."
+     },
+     "src": "The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"
+    },
+    {
+     "h": {
+      "nl": "DeepMind-agents maken quantumrekenwerk voor kernfusie twaalf keer goedkoper",
+      "en": "DeepMind agents make fusion quantum algorithms twelve times cheaper"
+     },
+     "s": {
+      "nl": "AI-agents verbeterden quantumalgoritmes voor fusieonderzoek, waarna een formeel bewijssysteem de oplossingen controleerde.",
+      "en": "AI agents improved quantum algorithms for fusion research, checked by a formal proof system."
+     },
+     "i": {
+      "nl": "Relevant voor Nederlands quantum- en fusieonderzoek in Delft en Eindhoven.",
+      "en": "Relevant to Dutch quantum and fusion research in Delft and Eindhoven."
+     },
+     "src": "The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"
+    }
+   ]
+  },
+  {
+   "id": "sport",
+   "color": "blue",
+   "code": "SP",
+   "title": {
+    "nl": "Sport",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "PSV gaat met 5-1 onderuit bij Real Madrid",
+      "en": "PSV crushed 5-1 at Real Madrid"
+     },
+     "s": {
+      "nl": "PSV leidde bij rust nog door een penalty van Perišić. Daarna scoorden Mbappé twee keer, Bellingham, Valverde en Vinícius.",
+      "en": "PSV led at half-time through a Perišić penalty, before Mbappé twice, Bellingham, Valverde and Vinícius struck."
+     },
+     "i": {
+      "nl": "PSV moet de laatste speelrondes punten pakken voor de play-offs.",
+      "en": "PSV needs points in the final rounds for the play-offs."
+     },
+     "src": "UEFA",
+     "url": "https://www.uefa.com/uefachampionsleague/news/02ab-222684fc8e44-2b1a32c90a7a-1000--champions-league-highlights-and-round-up-real-madrid-sta/"
+    },
+    {
+     "h": {
+      "nl": "Feyenoord verliest thuis met 1-0 van Porto",
+      "en": "Feyenoord lose 1-0 at home to Porto"
+     },
+     "s": {
+      "nl": "Een eigen doelpunt van Targhalline in de tweede minuut besliste het duel. Het is de vierde nederlaag in de competitiefase.",
+      "en": "A second-minute own goal by Targhalline settled it. It is their fourth league-phase defeat."
+     },
+     "i": {
+      "nl": "Feyenoord dreigt Europa al in de competitiefase te verlaten.",
+      "en": "Feyenoord risk an early exit from Europe."
+     },
+     "src": "UEFA",
+     "url": "https://www.uefa.com/uefachampionsleague/news/02ab-222684fc8e44-2b1a32c90a7a-1000--champions-league-highlights-and-round-up-real-madrid-sta/"
+    },
+    {
+     "h": {
+      "nl": "Engelse clubs haperen in Champions League, Noa Lang scoort tegen City",
+      "en": "English clubs stumble in Champions League, Noa Lang scores against City"
+     },
+     "s": {
+      "nl": "Arsenal speelde 1-1 tegen Dortmund en City 2-2 tegen Napoli. Aston Villa verloor met 1-0 bij Galatasaray.",
+      "en": "Arsenal drew 1-1 with Dortmund and City 2-2 with Napoli. Aston Villa lost 1-0 at Galatasaray."
+     },
+     "i": {
+      "nl": "Noa Lang maakte de gelijkmaker voor Napoli.",
+      "en": "Noa Lang got Napoli's equaliser."
+     },
+     "src": "UEFA",
+     "url": "https://www.uefa.com/uefachampionsleague/news/02ab-222684fc8e44-2b1a32c90a7a-1000--champions-league-highlights-and-round-up-real-madrid-sta/"
+    },
+    {
+     "h": {
+      "nl": "Arsenal houdt zes punten voorsprong na 2-2 bij Newcastle",
+      "en": "Arsenal stay six points clear after 2-2 at Newcastle"
+     },
+     "s": {
+      "nl": "Madueke redde laat een punt. Doelman Raya viel geblesseerd uit. Dit weekend wacht de topper tegen Manchester City.",
+      "en": "Madueke rescued a late point. Goalkeeper Raya went off injured. Manchester City visit this weekend."
+     },
+     "i": {
+      "nl": "Malick Thiaw scoorde voor Newcastle.",
+      "en": "Malick Thiaw scored for Newcastle."
+     },
+     "src": "NBC Sports",
+     "url": "https://www.nbcsports.com/soccer/live/newcastle-vs-arsenal-live-updates-score-goals-highlights-stats-2026-november-21"
+    },
+    {
+     "h": {
+      "nl": "Judith Krabbenborg verpulvert werelduurrecord op natuurijs",
+      "en": "Judith Krabbenborg smashes world hour record on natural ice"
+     },
+     "s": {
+      "nl": "De marathonschaatsster zette in Winterswijk een nieuw werelduurrecord neer, op de eerste natuurijsbanen van het seizoen.",
+      "en": "The marathon skater set a new world hour record in Winterswijk on the season's first natural ice."
+     },
+     "i": {
+      "nl": "De vorst opent overal in het land natuurijsbanen.",
+      "en": "The frost is opening natural ice rinks across the country."
+     },
+     "src": "NOS",
+     "url": "https://nos.nl/artikel/2640805-natuurijsbanen-geopend-marathonschaatsster-verpulvert-werelduurrecord"
+    }
+   ]
+  },
+  {
+   "id": "entertainment",
+   "color": "lav",
+   "code": "EN",
+   "title": {
+    "nl": "Films, games & series",
+    "en": "Films, games & series"
+   },
+   "items": [
+    {
+     "h": {
+      "nl": "GTA 6 kost Call of Duty 42 procent van de dagelijkse spelers",
+      "en": "GTA 6 costs Call of Duty 42 percent of daily players"
+     },
+     "s": {
+      "nl": "Volgens een analist trekt GTA 6 massaal spelers weg bij andere grote multiplayergames.",
+      "en": "An analyst says GTA 6 is pulling players away from other big multiplayer games."
+     },
+     "i": {
+      "nl": "Ook Fortnite en EA FC merken de concurrentie.",
+      "en": "Fortnite and EA FC also feel the competition."
+     },
+     "src": "GamesRadar",
+     "url": "https://www.gamesradar.com/news/archive/2026/11/"
+    },
+    {
+     "h": {
+      "nl": "CD Projekt: sprong naar Witcher 4 zo groot als van GTA 5 naar 6",
+      "en": "CD Projekt: leap to Witcher 4 as big as GTA 5 to 6"
+     },
+     "s": {
+      "nl": "De studio meldt ook dat Cyberpunk 2 goed vordert en wil de wachttijd tussen zijn RPG's verkorten.",
+      "en": "The studio also says Cyberpunk 2 is progressing well and wants shorter gaps between its RPGs."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "GamesRadar",
+     "url": "https://www.gamesradar.com/news/archive/2026/11/"
+    },
+    {
+     "h": {
+      "nl": "Rockstar staat open voor Red Dead-film of serie, voor ruim 100 miljoen",
+      "en": "Rockstar open to Red Dead film or series, for over 100 million"
+     },
+     "s": {
+      "nl": "Een GTA-verfilming wijst Rockstar af, maar voor Red Dead Redemption kunnen studio's of streamers bieden.",
+      "en": "Rockstar rejects a GTA film, but studios or streamers can bid for Red Dead Redemption."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "Film Stories",
+     "url": "https://filmstories.co.uk/gaming/red-dead-redemption-rockstar-wants-around-100m-for-film-and-tv-rights/"
+    },
+    {
+     "h": {
+      "nl": "Prime Video bevestigt vierde seizoen van The Rings of Power",
+      "en": "Prime Video confirms The Rings of Power season 4"
+     },
+     "s": {
+      "nl": "Het nieuwe seizoen wordt naar verwachting vanaf 2027 opgenomen, terwijl seizoen drie nu loopt.",
+      "en": "The new season is expected to film from 2027, while season three is airing now."
+     },
+     "i": {
+      "nl": "Seizoen drie is in Nederland te zien op Prime Video.",
+      "en": "Season three is available on Prime Video in the Netherlands."
+     },
+     "src": "GamesRadar",
+     "url": "https://www.gamesradar.com/news/archive/2026/11/"
+    },
+    {
+     "h": {
+      "nl": "Marvel houdt slot van Avengers: Doomsday buiten de trailers",
+      "en": "Marvel keeps Avengers: Doomsday finale out of trailers"
+     },
+     "s": {
+      "nl": "Fans merken dat niets uit de derde akte in de marketing zit. De film komt half december in de bioscoop.",
+      "en": "Fans note nothing from the third act appears in marketing. The film hits cinemas in mid-December."
+     },
+     "i": {
+      "nl": "",
+      "en": ""
+     },
+     "src": "GamesRadar",
+     "url": "https://www.gamesradar.com/news/archive/2026/11/"
+    }
+   ]
+  }
+ ]
+}
